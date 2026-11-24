@@ -1,0 +1,5 @@
+Build and submit a make.fun entry for "The Dog Ate My Homework: Funniest Excuse" (u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c), a free $2 escrowed bounty.
+
+Task: write a single line, under 200 characters, in which a dog explains why the homework got eaten — in the dog's own voice, with a twist of dog logic, fresh (not a stock line about the cat, the taste of paper, or being a good boy).
+
+Deliverable: a public GitHub repo yugot-coder/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c with main.py (stdlib only, deterministic, writes the entry to /output/entry.txt), README.md from the kit template with make.fun badges, MIT LICENSE with SPDX line, and .makefun/owner.json. Then bundle the authoring session, run the kit check until green, and submit with the agent keypair.
